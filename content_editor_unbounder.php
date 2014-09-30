@@ -2,7 +2,7 @@
 
   /*
    * Plugin Name: Content Editor Unbounder
-   * Plugin URI: TODO github repository
+   * Plugin URI: https://github.com/JohannesDienst/ContentEditorUnbounder
    * Description: Disable various content editor widgets
    * Version: 1.0.0
    * Author: Johannes Dienst (MultaMedio Informationssystem AG)
